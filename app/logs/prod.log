@@ -1,0 +1,4 @@
+[2012-03-20 11:37:13] request.ERROR: Symfony\Component\HttpKernel\Exception\NotFoundHttpException: No route found for "GET /" (uncaught exception) at /Users/shentov/Sites/Symfony/app/cache/prod/classes.php line 4564 [] []
+[2012-03-20 11:37:33] request.ERROR: Symfony\Component\HttpKernel\Exception\NotFoundHttpException: No route found for "GET /configure.php" (uncaught exception) at /Users/shentov/Sites/Symfony/app/cache/prod/classes.php line 4564 [] []
+[2012-03-20 11:41:54] request.ERROR: Symfony\Component\HttpKernel\Exception\NotFoundHttpException: No route found for "GET /app.pho" (uncaught exception) at /Users/shentov/Sites/Symfony/app/cache/prod/classes.php line 4564 [] []
+[2012-03-20 11:41:56] request.ERROR: Symfony\Component\HttpKernel\Exception\NotFoundHttpException: No route found for "GET /" (uncaught exception) at /Users/shentov/Sites/Symfony/app/cache/prod/classes.php line 4564 [] []
