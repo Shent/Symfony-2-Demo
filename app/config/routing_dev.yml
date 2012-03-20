@@ -2,6 +2,10 @@ _welcome:
     pattern:  /
     defaults: { _controller: AcmeDemoBundle:Welcome:index }
 
+#AcmeHelloBundle:
+#    resource: "@AcmeHelloBundle/Resources/config/routing.yml"
+#    prefix:   /
+
 _demo_secured:
     resource: "@AcmeDemoBundle/Controller/SecuredController.php"
     type:     annotation
